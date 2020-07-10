@@ -1,2 +1,2 @@
-# Class-34
-A moving red ball. 
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
